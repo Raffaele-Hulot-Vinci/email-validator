@@ -1,0 +1,19 @@
+{
+  "name": "email_validator",
+  "version": "1.0.0",
+  "description": "email validator",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raffaele-Hulot-Vinci/email-validator.git"
+  },
+  "devDependencies": {
+    "jasmine": "^5.5.0"
+  },
+  "author": "Hulot Raffaele",
+  "license": "ISC"
+}
